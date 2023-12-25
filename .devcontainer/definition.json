@@ -1,0 +1,5 @@
+{
+  "image*gravatar-gzip@github": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
